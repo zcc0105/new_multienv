@@ -1,0 +1,8 @@
+README.md
+setup.py
+BCIM.env.egg-info/PKG-INFO
+BCIM.env.egg-info/SOURCES.txt
+BCIM.env.egg-info/dependency_links.txt
+BCIM.env.egg-info/not-zip-safe
+BCIM.env.egg-info/requires.txt
+BCIM.env.egg-info/top_level.txt
